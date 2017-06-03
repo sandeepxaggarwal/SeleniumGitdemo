@@ -5,5 +5,5 @@
     <classes>
       <class name="TestNGPackage.test1"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test Demo -->
 </suite> <!-- Suite -->
